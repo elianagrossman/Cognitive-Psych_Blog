@@ -1,8 +1,7 @@
 ---
-title: "Blog 1_Module 1: Dichotmous thinking in cognitive psychology"
+title: "Blog 1, Module 1 - September 4, 2020 "
 description: |
-  Welcome to our new blog, My Blog. We hope you enjoy 
-  reading what we have to say!
+  Dichotmous thinking in cognitive psychology
 author:
   - name: Ellie Grossman
     url: 

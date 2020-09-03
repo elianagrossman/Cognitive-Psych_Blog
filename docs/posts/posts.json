@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/Blog 1_Module 1/",
-    "title": "Blog 1_Module 1: Dichotmous thinking in cognitive psychology",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "title": "Blog 1, Module 1 - September 4, 2020 ",
+    "description": "Dichotmous thinking in cognitive psychology",
     "author": [
       {
         "name": "Ellie Grossman",
@@ -12,7 +12,7 @@
     "date": "2020-08-31",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-09-03T17:28:20-04:00",
+    "last_modified": "2020-09-03T17:29:53-04:00",
     "input_file": "Blog-1_Module-1.utf8.md"
   },
   {
