@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/Blog 1_Module 1/",
+    "title": "Blog 1_Module 1: Dichotmous thinking in cognitive psychology",
+    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Ellie Grossman",
+        "url": {}
+      }
+    ],
+    "date": "2020-08-31",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-03T17:23:26-04:00",
+    "input_file": "Blog-1_Module-1.utf8.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Blog",
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",

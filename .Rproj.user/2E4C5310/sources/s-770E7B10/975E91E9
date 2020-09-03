@@ -3,13 +3,16 @@
     "path": "~/iCloud Drive (Archive)/Documents/Classes/Fall 2020/Cognitive Psychology/Cognitive Psych_Blog/about.Rmd",
     "project_path": "about.Rmd",
     "type": "r_markdown",
-    "hash": "1863708126",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1598913010632.0,
     "source_on_save": false,
     "relative_order": 1,
-    "properties": {},
+    "properties": {
+        "cursorPosition": "9,0",
+        "scrollLine": "0"
+    },
     "folds": "",
     "lastKnownWriteTime": 1598912928,
     "encoding": "UTF-8",
