@@ -13,7 +13,7 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-09-03T17:29:53-04:00",
-    "input_file": "Blog-1_Module-1.utf8.md"
+    "input_file": {}
   },
   {
     "path": "posts/welcome/",
@@ -30,5 +30,21 @@
     "preview": {},
     "last_modified": "2020-08-31T18:28:51-04:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/Blog 1_Module 2/",
+    "title": "Blog 1, Module 2 - September 12, 2020 ",
+    "description": "Music vs. Color Theory: Connections between artistic theory and associative learning",
+    "author": [
+      {
+        "name": "Ellie Grossman",
+        "url": {}
+      }
+    ],
+    "date": "2020-08-31",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-17T13:06:02-04:00",
+    "input_file": "Blog-1_Module-2.utf8.md"
   }
 ]

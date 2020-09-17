@@ -1,0 +1,30 @@
+---
+title: "Blog 1, Module 2 - September 12, 2020 "
+description: |
+  Music vs. Color Theory: Connections between artistic theory and associative learning
+author:
+  - name: Ellie Grossman
+    url: 
+    affiliation: CUNY Graduate Center
+    affiliation_url: https://www.gc.cuny.edu/Home
+date: 08-31-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+A	Just as I began my blog entry last week, I left the readings of this week in a state of perplexity. As I struggle with feelings of imposter syndrome having an arts background in the world of psychology, the technicalities of Hintzman’s “Scheme Abstraction” led to many reads and rereads of the text. The MINERVA 2 model, as I understand it, schematically represents the process of associative learning. We, according to Hintzman, have a memory reservoir, stacks of memory built like bricks to compose a memory matrix.  Probes enter our sphere and tug at the strings of the matrix, pulling hardest at those most similar in nature. Similarity computations allow us to measure this pull, otherwise known as a resonance value, between the probe and matrix. This helps us to ultimately ascertain a pattern of representing an aggregate result of memory called the echo. I think. 
+	While I can describe this concept in fair enough terms, I found it challenging to visualize as a process. As a result, I so heavily relied on (and appreciated!) the piano metaphor introduced in our last class. Imagining the probe as a finger striking a key and watching those proximally close notes ring out elucidated the concept of resonance (and gives further explanation to the name) and the Gestalt matrix. However, as a visual arts researcher and painter myself, I struggled with the notion that while music theory seems to be widely applied, the buck seemed to stop when color theory is introduced. To continue with the metaphor, when multiple notes on a piano are struck, the identity of the individual keys remains the same; yet when we combine multiple colors, their identity coagulates and forms something new entirely. Was I to believe that the probe and the matrix are as independent of structures as the finger from the key? 
+	Luckily (and I do have the luxury of writing after our class discussion), I raised this question in class which was very graciously entertained. What emerged was a discussion – again, I think – about perception. While the MINERVA model operationalizes the process of memory and learning, it does little to speak to the cyclical and dynamic nature of probe influencing memory influencing probe. The McCullough Effect, conversely, illustrates this point as we cannot divorce the red and green colors from the horizontal and vertical images once they are presented to us. A more dynamical model of instance theory is also introduced in this week’s paper about episodic uncertainty as a determinant of keystroke dynamics. Perhaps this is where camps diverge and theories begin to distinguish theories. I, for one, think that  I will be switching my metaphors as to maintain the dynamism in the cognitive processes that I contemplate. This may also serve my overarching goals of attempting to elucidate the process of meaning-making (of which perception/cognition are integral) which also seems to be cyclical. That said, I am still left in a state of contemplation (though no more perplexity!) of how to apply this to my research questions surrounding meaning making. Is meaning making a process of piano playing, typing, or color mixing? Albeit an odd and clunky question, I wonder which avenue to take as I relate the process of associative learning to meaning making, and what I should prioritize within this logical reasoning. Is there benefit to less dynamic or more dynamic modeling? As a researcher venturing into an already nebulous concept, is applying a dynamic model a further abstraction? I am left with more questions than answers, though I think this is an exciting place to be during my second week in the semester. I am looking forward to discussing memory and learning with you again, Prof. Crump!
+
+
+
+
